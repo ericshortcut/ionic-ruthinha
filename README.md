@@ -24,4 +24,4 @@ Fazer o download do app criado no ionic creator
 
 Descompactar o arquivo e copiar o conteúdo para a pasta ```www``` na raiz do projeto
 
-![Descompactar](./img/ionic.project)
+![Descompactar](./img/ionic-descompactar.project)
