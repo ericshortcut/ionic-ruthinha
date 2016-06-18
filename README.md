@@ -1,6 +1,6 @@
 
 
-primeiro passo
+#primeiro passo
 
 Fazer o layout no [ionic creator](https://creator.ionic.io) 
 
@@ -15,4 +15,4 @@ Primeiro - Inicializar projeto, no nosso caso ``` ionic start ionic-ruthinha bla
 ![tipos de projeto](./img/ionic-tipos-de-projecto.PNG)
 
 Escolhemos o tipo e inicializamos 
-"[ionic start ionic-ruthinha blank](./img/ionic-start-ruthinha.PNG)
+![ionic start ionic-ruthinha blank](./img/ionic-start-ruthinha.PNG)
