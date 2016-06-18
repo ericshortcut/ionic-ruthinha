@@ -16,3 +16,12 @@ Primeiro - Inicializar projeto, no nosso caso ``` ionic start ionic-ruthinha bla
 
 Escolhemos o tipo e inicializamos 
 ![ionic start ionic-ruthinha blank](./img/ionic-start-ruthinha.PNG)
+
+
+#segundo passo
+
+Fazer o download do app criado no ionic creator
+
+Descompactar o arquivo e copiar o conteúdo para a pasta ```www``` na raiz do projeto
+
+![Descompactar](./img/ionic.project)
